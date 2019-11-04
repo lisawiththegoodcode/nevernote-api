@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class NevernoteApiApplicationTests {
 
 	@Test
-	void contextLoads() throws Exception{
+	void contextLoads() {
 	}
 
 }
